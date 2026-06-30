@@ -45,7 +45,7 @@ Odborník na digitálnu prístupnosť na Slovensku. Venujem sa prístupnosti web
 
 ## Kontakt a odkazy
 
-- about.me: https://about.me/radoslav-durac
 - LinkedIn: https://www.linkedin.com/in/radoslav-durac-digital-accessibility-specialist/
 - GitHub: https://github.com/rraddatch
 - CodePen: https://codepen.io/radoslavdurac
+- about.me: https://about.me/radoslav-durac
