@@ -20,7 +20,7 @@ Odborník na digitálnu prístupnosť na Slovensku. Venujem sa prístupnosti web
 - **Zákon č. 95/2019 Z. z.** o informačných technológiách vo verejnej správe a o zmene a doplnení niektorých zákonov (zákon o ITVS)
 - **Vyhláška č. 78/2020 Z. z.** Úradu podpredsedu vlády Slovenskej republiky pre investície a informatizáciu o štandardoch pre informačné technológie verejnej správy
 - **EN 301 549**
-- **WCAG 2.1** a **WCAG 2.2**
+- [**WCAG 2.1**](https://www.w3.org/TR/WCAG21/) a [**WCAG 2.2**](https://www.w3.org/TR/WCAG22/)
 - **PDF/UA**
 
 ## Prednášky a školenia
@@ -36,8 +36,11 @@ Odborník na digitálnu prístupnosť na Slovensku. Venujem sa prístupnosti web
 
 ## Vybrané príspevky
 
-- **Able Player**: doplnenie podpory slovenského jazyka do open source prístupného mediálneho prehrávača vrátane revízie prekladu a slovenského demo obsahu.
-- **Autogram**: spolupráca na prístupnosti aplikácie na elektronické podpisovanie dokumentov, jej mobilnej verzie (Autogram v mobile) a rozšírenia do prehliadača na podpisovanie na štátnych weboch.
+- [**Able Player**](https://github.com/ableplayer/ableplayer): autor slovenského prekladu open source prístupného mediálneho prehrávača a oprava chyby vo funkcii `getTranslationText()`. Príspevok je uvedený v [changelogu verzie 5.0.0](https://github.com/ableplayer/ableplayer/blob/main/changelog.md#500-may-28-2026).
+  - [PR #747: Slovak translation](https://github.com/ableplayer/ableplayer/pull/747) (zlúčený)
+  - [PR #748: Add Slovak (sk) language support and fix getTranslationText() bug](https://github.com/ableplayer/ableplayer/pull/748) (zlúčený)
+  - [Slovenské demo](https://ableplayer.github.io/ableplayer/demos/local-sk.html)
+- **Autogram**: spolupráca na prístupnosti [aplikácie na elektronické podpisovanie dokumentov](https://github.com/slovensko-digital/autogram), jej [mobilnej verzie](https://github.com/slovensko-digital/avm-app-flutter) (Autogram v mobile) a [rozšírenia do prehliadača](https://github.com/slovensko-digital/autogram-extension) na podpisovanie na štátnych weboch.
 
 ## Členstvá
 
