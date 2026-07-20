@@ -1,8 +1,8 @@
 # Radoslav Ďurač
 
-Odborník na digitálnu prístupnosť na Slovensku. Venujem sa prístupnosti webových sídel, mobilných aplikácií, newebových dokumentov a digitálnych výrobkov a služieb v súlade s WCAG a EN 301 549, vrátane prístupných PDF dokumentov podľa PDF/UA, so zameraním na slovenskú a európsku legislatívu o prístupnosti.
+Odborník na digitálnu prístupnosť na Slovensku a certifikovaný expert na čítač obrazovky NVDA (NVDA Certified Expert). Venujem sa prístupnosti webových sídel, mobilných aplikácií, newebových dokumentov a digitálnych výrobkov a služieb v súlade s WCAG a EN 301 549, vrátane prístupných PDF dokumentov podľa PDF/UA, so zameraním na slovenskú a európsku legislatívu o prístupnosti.
 
-(Radoslav Ďurač, Digital Accessibility Specialist based in Bratislava, Slovakia.)
+(Radoslav Ďurač, Digital Accessibility Specialist and NVDA Certified Expert based in Bratislava, Slovakia.)
 
 ## Čomu sa venujem
 
@@ -33,6 +33,10 @@ Odborník na digitálnu prístupnosť na Slovensku. Venujem sa prístupnosti web
   - základy práce na počítači,
   - práca na počítači pre pokročilých,
   - používanie mobilných telefónov.
+
+ ## Certifikácie
+
+- **NVDA Certified Expert**: certifikácia od [NV Access](https://certification.nvaccess.org/) potvrdzujúca expertnú znalosť čítača obrazovky NVDA
 
 ## Vybrané príspevky
 
