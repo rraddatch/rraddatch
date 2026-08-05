@@ -2,19 +2,14 @@
 
 # Radoslav Ďurač
 
-Radoslav Ďurač is a digital accessibility specialist based in Bratislava, Slovakia, and NVDA Certified Expert. I work on the accessibility of websites, mobile applications, non-web documents, and digital products and services in line with WCAG and EN 301 549, including accessible PDF documents under PDF/UA, with a focus on Slovak and European accessibility legislation.
+Digital accessibility specialist based in Bratislava, Slovakia, and NVDA Certified Expert. I work on the accessibility of websites, mobile applications, non-web documents, and digital products and services in line with WCAG and EN 301 549, including accessible PDF documents under PDF/UA, with a focus on Slovak and European accessibility legislation.
 
-## Quick facts
+## At a glance
 
-| | |
-|---|---|
-| Name | Radoslav Ďurač |
-| Role | Digital Accessibility Specialist |
-| Location | Bratislava, Slovakia |
-| Certification | NVDA Certified Expert ([NV Access](https://certification.nvaccess.org/)) |
-| Focus | WCAG 2.1/2.2, EN 301 549, PDF/UA, EAA, WAD |
-| Languages | Slovak, English |
-| Wikidata | [Q140520894](https://www.wikidata.org/wiki/Q140520894) |
+- 📍 Bratislava, Slovakia
+- 🎓 NVDA Certified Expert, certified by [NV Access](https://certification.nvaccess.org/)
+- 🧩 WCAG 2.1/2.2 · EN 301 549 · PDF/UA · EAA · WAD
+- 🌐 Slovak and English
 
 ## What I do
 
@@ -68,3 +63,4 @@ Radoslav Ďurač is a digital accessibility specialist based in Bratislava, Slov
 - GitHub: https://github.com/rraddatch
 - CodePen: https://codepen.io/radoslavdurac
 - about.me: https://about.me/radoslav-durac
+- Wikidata: https://www.wikidata.org/wiki/Q140520894
