@@ -1,56 +1,56 @@
+*Available in: **English** · [Slovenčina](README.sk.md)*
+
 # Radoslav Ďurač
 
-Odborník na digitálnu prístupnosť na Slovensku a certifikovaný expert na čítač obrazovky NVDA (NVDA Certified Expert). Venujem sa prístupnosti webových sídel, mobilných aplikácií, newebových dokumentov a digitálnych výrobkov a služieb v súlade s WCAG a EN 301 549, vrátane prístupných PDF dokumentov podľa PDF/UA, so zameraním na slovenskú a európsku legislatívu o prístupnosti.
+Digital accessibility specialist based in Bratislava, Slovakia, and NVDA Certified Expert. I work on the accessibility of websites, mobile applications, non-web documents, and digital products and services in line with WCAG and EN 301 549, including accessible PDF documents under PDF/UA, with a focus on Slovak and European accessibility legislation.
 
-(Radoslav Ďurač, Digital Accessibility Specialist and NVDA Certified Expert based in Bratislava, Slovakia.)
+## What I do
 
-## Čomu sa venujem
+- Accessibility of **websites**
+- Accessibility of **mobile applications**
+- Accessibility of **non-web documents** such as PDF
+- Accessibility of **other digital products and services**
+- Accessibility auditing
+- Contributions to open source accessibility projects
 
-- Prístupnosť **webových sídel**
-- Prístupnosť **mobilných aplikácií**
-- Prístupnosť **newebových dokumentov** ako PDF
-- Prístupnosť **ďalších digitálnych výrobkov a služieb**
-- Auditovanie prístupnosti
-- Príspevky do open source projektov v oblasti prístupnosti
+## Standards and legislation
 
-## Štandardy a legislatíva
-
-- **EAA** (Európsky akt o prístupnosti)
-- **WAD** (smernica o prístupnosti webových sídel a mobilných aplikácií)
-- **Zákon č. 95/2019 Z. z.** o informačných technológiách vo verejnej správe a o zmene a doplnení niektorých zákonov (zákon o ITVS)
-- **Vyhláška č. 78/2020 Z. z.** Úradu podpredsedu vlády Slovenskej republiky pre investície a informatizáciu o štandardoch pre informačné technológie verejnej správy
+- **EAA** (European Accessibility Act)
+- **WAD** (Web Accessibility Directive for websites and mobile applications)
+- **Act No. 95/2019 Coll.** on information technologies in public administration (ITVS Act), Slovak Republic
+- **Decree No. 78/2020 Coll.** of the Deputy Prime Minister's Office of the Slovak Republic for Investments and Informatization on standards for public administration information technologies
 - **EN 301 549**
-- [**WCAG 2.1**](https://www.w3.org/TR/WCAG21/) a [**WCAG 2.2**](https://www.w3.org/TR/WCAG22/)
+- [**WCAG 2.1**](https://www.w3.org/TR/WCAG21/) and [**WCAG 2.2**](https://www.w3.org/TR/WCAG22/)
 - **PDF/UA**
 
-## Prednášky a školenia
+## Talks and training
 
-- **Univerzita Komenského v Bratislave**: prednášajúci pre predmet Prístupnosť digitálnych produktov a služieb.
-- **MIRRI SR, prístupnosť mobilných aplikácií**: školenie pre vývojárov softvéru zamerané na prístupnosť mobilných aplikácií, predstavenie požiadaviek WCAG, praktické príklady bariér prístupnosti a odporúčania pre vývoj prístupných aplikácií.
-- **MIRRI SR, prístupnosť pre vývojárov webových sídel**: školenie vývojárov webových sídel o prístupnosti.
-- **Prístupnosť dokumentov v Microsoft Office**: online školenie o tvorbe prístupných dokumentov v Microsoft Office 2016 a Microsoft 365 v súlade s vyhláškou č. 78/2020 Z. z. a WCAG, vrátane štruktúry dokumentu, nadpisov, zoznamov, tabuliek, alternatívnych textov, kontroly prístupnosti a prípravy prístupných PDF.
-- **Digitálna gramotnosť seniorov**: viacero kurzov pre seniorov, konkrétne:
-  - základy práce na počítači,
-  - práca na počítači pre pokročilých,
-  - používanie mobilných telefónov.
+- **Comenius University in Bratislava**: lecturer for the course Accessibility of Digital Products and Services.
+- **MIRRI SR, mobile application accessibility**: training for software developers on mobile application accessibility, covering WCAG requirements, practical accessibility barrier examples, and recommendations for building accessible apps.
+- **MIRRI SR, website accessibility for developers**: training for website developers on accessibility.
+- **Accessibility of documents in Microsoft Office**: online training on creating accessible documents in Microsoft Office 2016 and Microsoft 365 in line with Decree No. 78/2020 Coll. and WCAG, covering document structure, headings, lists, tables, alt text, accessibility checking, and preparing accessible PDFs.
+- **Digital literacy for seniors**: several courses for seniors, specifically:
+  - basic computer skills,
+  - advanced computer skills,
+  - using mobile phones.
 
- ## Certifikácie
+## Certifications
 
-- **NVDA Certified Expert**: certifikácia od [NV Access](https://certification.nvaccess.org/) potvrdzujúca expertnú znalosť čítača obrazovky NVDA
+- **NVDA Certified Expert**: certification from [NV Access](https://certification.nvaccess.org/) confirming expert knowledge of the NVDA screen reader.
 
-## Vybrané príspevky
+## Selected contributions
 
-- [**Able Player**](https://github.com/ableplayer/ableplayer): autor slovenského prekladu open source prístupného mediálneho prehrávača a oprava chyby vo funkcii `getTranslationText()`. Príspevok je uvedený v [changelogu verzie 5.0.0](https://github.com/ableplayer/ableplayer/blob/main/changelog.md#500-may-28-2026).
-  - [PR #747: Slovak translation](https://github.com/ableplayer/ableplayer/pull/747) (zlúčený)
-  - [PR #748: Add Slovak (sk) language support and fix getTranslationText() bug](https://github.com/ableplayer/ableplayer/pull/748) (zlúčený)
-  - [Slovenské demo](https://ableplayer.github.io/ableplayer/demos/local-sk.html)
-- **Autogram**: spolupráca na prístupnosti [aplikácie na elektronické podpisovanie dokumentov](https://github.com/slovensko-digital/autogram), jej [mobilnej verzie](https://github.com/slovensko-digital/avm-app-flutter) (Autogram v mobile) a [rozšírenia do prehliadača](https://github.com/slovensko-digital/autogram-extension) na podpisovanie na štátnych weboch.
+- [**Able Player**](https://github.com/ableplayer/ableplayer): author of the Slovak translation for the open source accessible media player, and fix for a bug in the `getTranslationText()` function. The contribution is listed in the [changelog for version 5.0.0](https://github.com/ableplayer/ableplayer/blob/main/changelog.md#500-may-28-2026).
+  - [PR #747: Slovak translation](https://github.com/ableplayer/ableplayer/pull/747) (merged)
+  - [PR #748: Add Slovak (sk) language support and fix getTranslationText() bug](https://github.com/ableplayer/ableplayer/pull/748) (merged)
+  - [Slovak demo](https://ableplayer.github.io/ableplayer/demos/local-sk.html)
+- **Autogram**: collaboration on the accessibility of the [electronic document signing application](https://github.com/slovensko-digital/autogram), its [mobile version](https://github.com/slovensko-digital/avm-app-flutter) (Autogram v mobile), and the [browser extension](https://github.com/slovensko-digital/autogram-extension) for signing on Slovak government websites.
 
-## Členstvá
+## Memberships
 
-- Slovenská User Experience Asociácia (SUXA)
+- Slovak User Experience Association (SUXA)
 
-## Kontakt a odkazy
+## Contact and links
 
 - LinkedIn: https://www.linkedin.com/in/radoslav-durac-digital-accessibility-specialist/
 - GitHub: https://github.com/rraddatch
