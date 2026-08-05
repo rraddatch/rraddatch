@@ -33,7 +33,7 @@ Digital accessibility specialist based in Bratislava, Slovakia, and NVDA Certifi
 ## Talks and training
 
 - **Comenius University in Bratislava**: lecturer for the course Accessibility of Digital Products and Services.
-- **MIRRI SR, mobile application accessibility**: training for software developers on mobile application accessibility, covering WCAG requirements, practical accessibility barrier examples, and recommendations for building accessible apps.
+- **MIRRI SR** (Ministry of Investments, Regional Development and Informatization of the Slovak Republic), mobile application accessibility: training for software developers on mobile application accessibility, covering WCAG requirements, practical accessibility barrier examples, and recommendations for building accessible apps.
 - **MIRRI SR, website accessibility for developers**: training for website developers on accessibility.
 - **Accessibility of documents in Microsoft Office**: online training on creating accessible documents in Microsoft Office 2016 and Microsoft 365 in line with Decree No. 78/2020 Coll. and WCAG, covering document structure, headings, lists, tables, alt text, accessibility checking, and preparing accessible PDFs.
 - **Digital literacy for seniors**: several courses for seniors, specifically:

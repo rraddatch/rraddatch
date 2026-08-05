@@ -33,7 +33,7 @@ Odborník na digitálnu prístupnosť na Slovensku a certifikovaný expert na č
 ## Prednášky a školenia
 
 - **Univerzita Komenského v Bratislave**: prednášajúci pre predmet Prístupnosť digitálnych produktov a služieb.
-- **MIRRI SR, prístupnosť mobilných aplikácií**: školenie pre vývojárov softvéru zamerané na prístupnosť mobilných aplikácií, predstavenie požiadaviek WCAG, praktické príklady bariér prístupnosti a odporúčania pre vývoj prístupných aplikácií.
+- **MIRRI SR** (Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky), prístupnosť mobilných aplikácií: školenie pre vývojárov softvéru zamerané na prístupnosť mobilných aplikácií, predstavenie požiadaviek WCAG, praktické príklady bariér prístupnosti a odporúčania pre vývoj prístupných aplikácií.
 - **MIRRI SR, prístupnosť pre vývojárov webových sídel**: školenie vývojárov webových sídel o prístupnosti.
 - **Prístupnosť dokumentov v Microsoft Office**: online školenie o tvorbe prístupných dokumentov v Microsoft Office 2016 a Microsoft 365 v súlade s vyhláškou č. 78/2020 Z. z. a WCAG, vrátane štruktúry dokumentu, nadpisov, zoznamov, tabuliek, alternatívnych textov, kontroly prístupnosti a prípravy prístupných PDF.
 - **Digitálna gramotnosť seniorov**: viacero kurzov pre seniorov, konkrétne:
