@@ -2,19 +2,14 @@
 
 # Radoslav Ďurač
 
-Radoslav Ďurač je odborník na digitálnu prístupnosť na Slovensku a certifikovaný expert na čítač obrazovky NVDA (NVDA Certified Expert). Venujem sa prístupnosti webových sídel, mobilných aplikácií, newebových dokumentov a digitálnych výrobkov a služieb v súlade s WCAG a EN 301 549, vrátane prístupných PDF dokumentov podľa PDF/UA, so zameraním na slovenskú a európsku legislatívu o prístupnosti.
+Odborník na digitálnu prístupnosť na Slovensku a certifikovaný expert na čítač obrazovky NVDA (NVDA Certified Expert). Venujem sa prístupnosti webových sídel, mobilných aplikácií, newebových dokumentov a digitálnych výrobkov a služieb v súlade s WCAG a EN 301 549, vrátane prístupných PDF dokumentov podľa PDF/UA, so zameraním na slovenskú a európsku legislatívu o prístupnosti.
 
-## Rýchle fakty
+## V skratke
 
-| | |
-|---|---|
-| Meno | Radoslav Ďurač |
-| Pozícia | Odborník na digitálnu prístupnosť |
-| Lokalita | Bratislava, Slovensko |
-| Certifikácia | NVDA Certified Expert ([NV Access](https://certification.nvaccess.org/)) |
-| Zameranie | WCAG 2.1/2.2, EN 301 549, PDF/UA, EAA, WAD |
-| Jazyky | Slovenčina, angličtina |
-| Wikidata | [Q140520894](https://www.wikidata.org/wiki/Q140520894) |
+- 📍 Bratislava, Slovensko
+- 🎓 NVDA Certified Expert, certifikácia od [NV Access](https://certification.nvaccess.org/)
+- 🧩 WCAG 2.1/2.2 · EN 301 549 · PDF/UA · EAA · WAD
+- 🌐 Slovenčina a angličtina
 
 ## Čomu sa venujem
 
@@ -68,3 +63,4 @@ Radoslav Ďurač je odborník na digitálnu prístupnosť na Slovensku a certifi
 - GitHub: https://github.com/rraddatch
 - CodePen: https://codepen.io/radoslavdurac
 - about.me: https://about.me/radoslav-durac
+- Wikidata: https://www.wikidata.org/wiki/Q140520894
