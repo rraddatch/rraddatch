@@ -8,6 +8,7 @@ Digital accessibility specialist based in Bratislava, Slovakia, and NVDA Certifi
 
 - 📍 Bratislava, Slovakia
 - 🎓 NVDA Certified Expert, certified by [NV Access](https://certification.nvaccess.org/)
+- 🎓 JAWS and ZoomText certified by [Freedom Scientific](https://www.freedomscientific.com/)
 - 🧩 WCAG 2.1/2.2 · EN 301 549 · PDF/UA · EAA · WAD
 - 🌐 Slovak and English
 
@@ -24,26 +25,15 @@ Digital accessibility specialist based in Bratislava, Slovakia, and NVDA Certifi
 
 - **EAA** (European Accessibility Act)
 - **WAD** (Web Accessibility Directive for websites and mobile applications)
-- **Act No. 95/2019 Coll.** on information technologies in public administration (ITVS Act), Slovak Republic
-- **Decree No. 78/2020 Coll.** of the Deputy Prime Minister's Office of the Slovak Republic for Investments and Informatization on standards for public administration information technologies
 - **EN 301 549**
 - [**WCAG 2.1**](https://www.w3.org/TR/WCAG21/) and [**WCAG 2.2**](https://www.w3.org/TR/WCAG22/)
 - **PDF/UA**
 
-## Talks and training
-
-- **Comenius University in Bratislava**: lecturer for the course Accessibility of Digital Products and Services.
-- **MIRRI SR** (Ministry of Investments, Regional Development and Informatization of the Slovak Republic), mobile application accessibility: training for software developers on mobile application accessibility, covering WCAG requirements, practical accessibility barrier examples, and recommendations for building accessible apps.
-- **MIRRI SR, website accessibility for developers**: training for website developers on accessibility.
-- **Accessibility of documents in Microsoft Office**: online training on creating accessible documents in Microsoft Office 2016 and Microsoft 365 in line with Decree No. 78/2020 Coll. and WCAG, covering document structure, headings, lists, tables, alt text, accessibility checking, and preparing accessible PDFs.
-- **Digital literacy for seniors**: several courses for seniors, specifically:
-  - basic computer skills,
-  - advanced computer skills,
-  - using mobile phones.
-
 ## Certifications
 
 - **NVDA Certified Expert**: certification from [NV Access](https://certification.nvaccess.org/) confirming expert knowledge of the NVDA screen reader.
+- **JAWS Certified**: certification from Freedom Scientific for the JAWS screen reader, listed among [JAWS Certified Individuals](https://support.freedomscientific.com/Services/TrainingAndCertification/JAWSCertifiedIndividuals).
+- **ZoomText Certified**: certification from Freedom Scientific for the ZoomText screen magnifier, listed among [ZoomText Certified Individuals](https://support.freedomscientific.com/Services/TrainingAndCertification/ZoomTextCertifiedIndividuals).
 
 ## Selected contributions
 
@@ -51,11 +41,8 @@ Digital accessibility specialist based in Bratislava, Slovakia, and NVDA Certifi
   - [PR #747: Slovak translation](https://github.com/ableplayer/ableplayer/pull/747) (merged)
   - [PR #748: Add Slovak (sk) language support and fix getTranslationText() bug](https://github.com/ableplayer/ableplayer/pull/748) (merged)
   - [Slovak demo](https://ableplayer.github.io/ableplayer/demos/local-sk.html)
-- **Autogram**: collaboration on the accessibility of the [electronic document signing application](https://github.com/slovensko-digital/autogram), its [mobile version](https://github.com/slovensko-digital/avm-app-flutter) (Autogram v mobile), and the [browser extension](https://github.com/slovensko-digital/autogram-extension) for signing on Slovak government websites.
-
-## Memberships
-
-- Slovak User Experience Association (SUXA)
+- [**Luma11y**](https://github.com/WebAccessibilityTools/Luma11y): author of the Slovak translation for the open source colour contrast analyser.
+  - [PR #54: Adding Slovak language support to Luma11y](https://github.com/WebAccessibilityTools/Luma11y/pull/54) (merged)
 
 ## Contact and links
 

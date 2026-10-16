@@ -8,6 +8,7 @@ Odborník na digitálnu prístupnosť na Slovensku a certifikovaný expert na č
 
 - 📍 Bratislava, Slovensko
 - 🎓 NVDA Certified Expert, certifikácia od [NV Access](https://certification.nvaccess.org/)
+- 🎓 Certifikácia JAWS a ZoomText od [Freedom Scientific](https://www.freedomscientific.com/)
 - 🧩 WCAG 2.1/2.2 · EN 301 549 · PDF/UA · EAA · WAD
 - 🌐 Slovenčina a angličtina
 
@@ -24,26 +25,15 @@ Odborník na digitálnu prístupnosť na Slovensku a certifikovaný expert na č
 
 - **EAA** (Európsky akt o prístupnosti)
 - **WAD** (smernica o prístupnosti webových sídel a mobilných aplikácií)
-- **Zákon č. 95/2019 Z. z.** o informačných technológiách vo verejnej správe a o zmene a doplnení niektorých zákonov (zákon o ITVS)
-- **Vyhláška č. 78/2020 Z. z.** Úradu podpredsedu vlády Slovenskej republiky pre investície a informatizáciu o štandardoch pre informačné technológie verejnej správy
 - **EN 301 549**
 - [**WCAG 2.1**](https://www.w3.org/TR/WCAG21/) a [**WCAG 2.2**](https://www.w3.org/TR/WCAG22/)
 - **PDF/UA**
 
-## Prednášky a školenia
+## Certifikácie
 
-- **Univerzita Komenského v Bratislave**: prednášajúci pre predmet Prístupnosť digitálnych produktov a služieb.
-- **MIRRI SR** (Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky), prístupnosť mobilných aplikácií: školenie pre vývojárov softvéru zamerané na prístupnosť mobilných aplikácií, predstavenie požiadaviek WCAG, praktické príklady bariér prístupnosti a odporúčania pre vývoj prístupných aplikácií.
-- **MIRRI SR, prístupnosť pre vývojárov webových sídel**: školenie vývojárov webových sídel o prístupnosti.
-- **Prístupnosť dokumentov v Microsoft Office**: online školenie o tvorbe prístupných dokumentov v Microsoft Office 2016 a Microsoft 365 v súlade s vyhláškou č. 78/2020 Z. z. a WCAG, vrátane štruktúry dokumentu, nadpisov, zoznamov, tabuliek, alternatívnych textov, kontroly prístupnosti a prípravy prístupných PDF.
-- **Digitálna gramotnosť seniorov**: viacero kurzov pre seniorov, konkrétne:
-  - základy práce na počítači,
-  - práca na počítači pre pokročilých,
-  - používanie mobilných telefónov.
-
- ## Certifikácie
-
-- **NVDA Certified Expert**: certifikácia od [NV Access](https://certification.nvaccess.org/) potvrdzujúca expertnú znalosť čítača obrazovky NVDA
+- **NVDA Certified Expert**: certifikácia od [NV Access](https://certification.nvaccess.org/) potvrdzujúca expertnú znalosť čítača obrazovky NVDA.
+- **JAWS Certified**: certifikácia od Freedom Scientific pre čítač obrazovky JAWS; meno je uvedené v [zozname certifikovaných osôb JAWS](https://support.freedomscientific.com/Services/TrainingAndCertification/JAWSCertifiedIndividuals).
+- **ZoomText Certified**: certifikácia od Freedom Scientific pre zväčšovací softvér ZoomText; meno je uvedené v [zozname certifikovaných osôb ZoomText](https://support.freedomscientific.com/Services/TrainingAndCertification/ZoomTextCertifiedIndividuals).
 
 ## Vybrané príspevky
 
@@ -51,11 +41,8 @@ Odborník na digitálnu prístupnosť na Slovensku a certifikovaný expert na č
   - [PR #747: Slovak translation](https://github.com/ableplayer/ableplayer/pull/747) (zlúčený)
   - [PR #748: Add Slovak (sk) language support and fix getTranslationText() bug](https://github.com/ableplayer/ableplayer/pull/748) (zlúčený)
   - [Slovenské demo](https://ableplayer.github.io/ableplayer/demos/local-sk.html)
-- **Autogram**: spolupráca na prístupnosti [aplikácie na elektronické podpisovanie dokumentov](https://github.com/slovensko-digital/autogram), jej [mobilnej verzie](https://github.com/slovensko-digital/avm-app-flutter) (Autogram v mobile) a [rozšírenia do prehliadača](https://github.com/slovensko-digital/autogram-extension) na podpisovanie na štátnych weboch.
-
-## Členstvá
-
-- Slovenská User Experience Asociácia (SUXA)
+- [**Luma11y**](https://github.com/WebAccessibilityTools/Luma11y): autor slovenského prekladu open source nástroja na analýzu farebného kontrastu.
+  - [PR #54: Adding Slovak language support to Luma11y](https://github.com/WebAccessibilityTools/Luma11y/pull/54) (zlúčený)
 
 ## Kontakt a odkazy
 
