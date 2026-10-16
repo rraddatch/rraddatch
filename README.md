@@ -50,4 +50,3 @@ Digital accessibility specialist based in Bratislava, Slovakia, and NVDA Certifi
 - GitHub: https://github.com/rraddatch
 - CodePen: https://codepen.io/radoslavdurac
 - about.me: https://about.me/radoslav-durac
-- Wikidata: https://www.wikidata.org/wiki/Q140520894
