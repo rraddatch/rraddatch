@@ -7,7 +7,7 @@ Digital accessibility specialist based in Bratislava, Slovakia, IAAP Certified W
 ## At a glance
 
 - 📍 Bratislava, Slovakia
-- 🎓 IAAP Certified Web Accessibility Specialist (WAS), certified by [IAAP](https://www.accessibilityassociation.org/s/web-accessibility-specialist)
+- 🎓 IAAP Certified Web Accessibility Specialist (WAS), certified by [IAAP](https://www.accessibilityassociation.org/was-exam)
 - 🎓 NVDA Certified Expert, certified by [NV Access](https://certification.nvaccess.org/)
 - 🎓 JAWS and ZoomText certified by [Freedom Scientific](https://www.freedomscientific.com/)
 - 🧩 WCAG 2.1/2.2 · EN 301 549 · PDF/UA · EAA · WAD
@@ -32,7 +32,7 @@ Digital accessibility specialist based in Bratislava, Slovakia, IAAP Certified W
 
 ## Certifications
 
-- **Web Accessibility Specialist (WAS)**: certification from the [International Association of Accessibility Professionals (IAAP)](https://www.accessibilityassociation.org/s/web-accessibility-specialist) confirming technical expertise in web accessibility.
+- **Web Accessibility Specialist (WAS)**: certification from the [International Association of Accessibility Professionals (IAAP)](https://www.accessibilityassociation.org/was-exam) confirming technical expertise in web accessibility.
 - **NVDA Certified Expert**: certification from [NV Access](https://certification.nvaccess.org/) confirming expert knowledge of the NVDA screen reader.
 - **JAWS Certified**: certification from Freedom Scientific for the JAWS screen reader, listed among [JAWS Certified Individuals](https://support.freedomscientific.com/Services/TrainingAndCertification/JAWSCertifiedIndividuals).
 - **ZoomText Certified**: certification from Freedom Scientific for the ZoomText screen magnifier, listed among [ZoomText Certified Individuals](https://support.freedomscientific.com/Services/TrainingAndCertification/ZoomTextCertifiedIndividuals).
