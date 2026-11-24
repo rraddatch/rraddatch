@@ -2,11 +2,12 @@
 
 # Radoslav Ďurač
 
-Odborník na digitálnu prístupnosť na Slovensku a certifikovaný expert na čítač obrazovky NVDA (NVDA Certified Expert). Venujem sa prístupnosti webových sídel, mobilných aplikácií, newebových dokumentov a digitálnych výrobkov a služieb v súlade s WCAG a EN 301 549, vrátane prístupných PDF dokumentov podľa PDF/UA, so zameraním na slovenskú a európsku legislatívu o prístupnosti.
+Odborník na digitálnu prístupnosť na Slovensku, držiteľ certifikácie IAAP Web Accessibility Specialist (WAS) a certifikovaný expert na čítač obrazovky NVDA (NVDA Certified Expert). Venujem sa prístupnosti webových sídel, mobilných aplikácií, newebových dokumentov a digitálnych výrobkov a služieb v súlade s WCAG a EN 301 549, vrátane prístupných PDF dokumentov podľa PDF/UA, so zameraním na slovenskú a európsku legislatívu o prístupnosti.
 
 ## V skratke
 
 - 📍 Bratislava, Slovensko
+- 🎓 IAAP Certified Web Accessibility Specialist (WAS), certifikácia od [IAAP](https://www.accessibilityassociation.org/s/web-accessibility-specialist)
 - 🎓 NVDA Certified Expert, certifikácia od [NV Access](https://certification.nvaccess.org/)
 - 🎓 Certifikácia JAWS a ZoomText od [Freedom Scientific](https://www.freedomscientific.com/)
 - 🧩 WCAG 2.1/2.2 · EN 301 549 · PDF/UA · EAA · WAD
@@ -31,6 +32,7 @@ Odborník na digitálnu prístupnosť na Slovensku a certifikovaný expert na č
 
 ## Certifikácie
 
+- **Web Accessibility Specialist (WAS)**: certifikácia od [International Association of Accessibility Professionals (IAAP)](https://www.accessibilityassociation.org/s/web-accessibility-specialist) potvrdzujúca technickú odbornosť v oblasti prístupnosti webu.
 - **NVDA Certified Expert**: certifikácia od [NV Access](https://certification.nvaccess.org/) potvrdzujúca expertnú znalosť čítača obrazovky NVDA.
 - **JAWS Certified**: certifikácia od Freedom Scientific pre čítač obrazovky JAWS; meno je uvedené v [zozname certifikovaných osôb JAWS](https://support.freedomscientific.com/Services/TrainingAndCertification/JAWSCertifiedIndividuals).
 - **ZoomText Certified**: certifikácia od Freedom Scientific pre zväčšovací softvér ZoomText; meno je uvedené v [zozname certifikovaných osôb ZoomText](https://support.freedomscientific.com/Services/TrainingAndCertification/ZoomTextCertifiedIndividuals).

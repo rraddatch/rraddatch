@@ -2,11 +2,12 @@
 
 # Radoslav Ďurač
 
-Digital accessibility specialist based in Bratislava, Slovakia, and NVDA Certified Expert. I work on the accessibility of websites, mobile applications, non-web documents, and digital products and services in line with WCAG and EN 301 549, including accessible PDF documents under PDF/UA, with a focus on Slovak and European accessibility legislation.
+Digital accessibility specialist based in Bratislava, Slovakia, IAAP Certified Web Accessibility Specialist (WAS), and NVDA Certified Expert. I work on the accessibility of websites, mobile applications, non-web documents, and digital products and services in line with WCAG and EN 301 549, including accessible PDF documents under PDF/UA, with a focus on Slovak and European accessibility legislation.
 
 ## At a glance
 
 - 📍 Bratislava, Slovakia
+- 🎓 IAAP Certified Web Accessibility Specialist (WAS), certified by [IAAP](https://www.accessibilityassociation.org/s/web-accessibility-specialist)
 - 🎓 NVDA Certified Expert, certified by [NV Access](https://certification.nvaccess.org/)
 - 🎓 JAWS and ZoomText certified by [Freedom Scientific](https://www.freedomscientific.com/)
 - 🧩 WCAG 2.1/2.2 · EN 301 549 · PDF/UA · EAA · WAD
@@ -31,6 +32,7 @@ Digital accessibility specialist based in Bratislava, Slovakia, and NVDA Certifi
 
 ## Certifications
 
+- **Web Accessibility Specialist (WAS)**: certification from the [International Association of Accessibility Professionals (IAAP)](https://www.accessibilityassociation.org/s/web-accessibility-specialist) confirming technical expertise in web accessibility.
 - **NVDA Certified Expert**: certification from [NV Access](https://certification.nvaccess.org/) confirming expert knowledge of the NVDA screen reader.
 - **JAWS Certified**: certification from Freedom Scientific for the JAWS screen reader, listed among [JAWS Certified Individuals](https://support.freedomscientific.com/Services/TrainingAndCertification/JAWSCertifiedIndividuals).
 - **ZoomText Certified**: certification from Freedom Scientific for the ZoomText screen magnifier, listed among [ZoomText Certified Individuals](https://support.freedomscientific.com/Services/TrainingAndCertification/ZoomTextCertifiedIndividuals).
